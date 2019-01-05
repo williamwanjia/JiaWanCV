@@ -9,9 +9,9 @@
 
 ## Education
 
-1. 2009--2014 PhD *Delft University of Technology* (Delft the Netherlands) Aerospace engineering
-2. 2006--2009 Master *Beihang University* (Beijing China) Aircraft design
-3. 2002--2006 Bachelor *Beihang University* (Beijing China) Aircraft design
+1. 2009--2014 PhD *Delft University of Technology* (Delft, the Netherlands) Aerospace engineering
+2. 2006--2009 Master *Beihang University* (Beijing, China) Aircraft design
+3. 2002--2006 Bachelor *Beihang University* (Beijing, China) Aircraft design
 
 
 ## Experience
@@ -20,12 +20,12 @@
 
 #### 2016.10-2018.08 R&D manager at Sky-mind Aviation Tech (Shanghai) Co. Ltd
 
-1. Unmanned autogyro development (200~600 kg)}
+1. Unmanned autogyro development (200~600 kg)
     * System engineer, autogyro preliminary design and performance evaluation.
     * Autogyro flight simulation model development, flight mechanics characteristics analyses and control algorithm evaluation.
     * Software in the loop and hardware in the loop simulation tests.
     * Flight test commander and chief test engineer.
-2. Quad-plane UAV development (30 kg)}
+2. Quad-plane UAV development (30 kg)
     * Chief engineer, system design and integration, Chief test engineer.
     * Aerodynamic analyses using commercial CFD software.
     
@@ -57,7 +57,7 @@
 	* Sensitivity analysis for design parameters, determining the feasible design space and design optimization.
 	* Integration of simulation codes with the SIMONA 6 DoF flight simulator, virtual flight tests with test pilots.
 	* Generating design database, determining the feasible design space and Ornicopter design optimization.
-3. Research on the impacts of Gurney flap on helicopter performance}
+3. Research on the impacts of Gurney flap on helicopter performance
     * Developing 2D Gurney flap aerodynamic model, integration with the generic helicopter flight mechanics model.
 	* Blade stall distribution and helicopter handling quality analyses with Gurney flap deployed.
 
@@ -86,12 +86,12 @@
 1. 2008.09: Awarded Excellent Volunteer of Beijing 2008 Olympic and Paralympic Games
 2. 2006.10: National Aeromodelling Tournament: Champion in weightlifting competition (Individual & team competition); Broke the national record; MVP of the competition
 3. 2006.07: Awarded Excellent Graduate of Beijing 
-4. 2005.10: National Aeromodelling Tournament: Champion in weightlifting competition (Individual \& team competition); Established a national record
+4. 2005.10: National Aeromodelling Tournament: Champion in weightlifting competition (Individual & team competition); Established a national record
 	
 ## Representative Papers
 1. Wan, J., Liu H. and Wang F., "Imperative modeling elements for multi-rotor unmanned aerial vehicles'', *Journal of Beijing University of Aeronautics and Astronautics*, 2017, 43(6). (In Chinese)
 2. Wan, J. and Pavel, M., "Designing the Ornicopter, a tailless helicopter with active flapping blades - A case study", *Proceedings of the Institution of Mechanical Engineers. Part G, Journal of aerospace engineering*, 2016, 230(12).
-3.	Wan, J. and Pavel, M., "The Ornicopter - A tailless helicopter with active flapping blades", *The Aeronautical Journal*, 2014, 118(7).
-4.	Wan, J. and Pavel, M., "Directional handling quality assessment for Ornicopter", *38th European Rotorcraft Forum, Amsterdam*, the Netherlands, September, 2012.
-5.	Wan, J. and Pavel, M., "Stability and controllability analysis for Ornicopter", *37th European Rotorcraft Forum*, Milan, Italy, September, 2011.
+3. Wan, J. and Pavel, M., "The Ornicopter - A tailless helicopter with active flapping blades", *The Aeronautical Journal*, 2014, 118(7).
+4. Wan, J. and Pavel, M., "Directional handling quality assessment for Ornicopter", *38th European Rotorcraft Forum, Amsterdam*, the Netherlands, September, 2012.
+5. Wan, J. and Pavel, M., "Stability and controllability analysis for Ornicopter", *37th European Rotorcraft Forum*, Milan, Italy, September, 2011.
 	    
