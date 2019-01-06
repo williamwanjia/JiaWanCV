@@ -71,7 +71,7 @@
 ## Skills
 1. Highly experienced UAV pilot/operator
 2. CAD/CAE: Solidworks, CATIA, AutoCAD
-3. Programming: Matlab, Maple, Fortran, Python, C/C++
+3. Programming: Matlab, Maple, Fortran, Pytghn, C/C++
 4. CFD software: XFlow
 5. AVR chip programming (C/C++) and circuit board design
 
@@ -94,4 +94,16 @@
 3. Wan, J. and Pavel, M., "The Ornicopter - A tailless helicopter with active flapping blades", *The Aeronautical Journal*, 2014, 118(7).
 4. Wan, J. and Pavel, M., "Directional handling quality assessment for Ornicopter", *38th European Rotorcraft Forum, Amsterdam*, the Netherlands, September, 2012.
 5. Wan, J. and Pavel, M., "Stability and controllability analysis for Ornicopter", *37th European Rotorcraft Forum*, Milan, Italy, September, 2011.
-	    
+
+## Photos
+
+<figure>
+<img src="AU300.jpg" alt="AU300 UAV">
+<figcaption><i>AU300 unmanned auto-gyro</i></figcaption>
+</figure>
+
+<figure>
+<img src="G30.jpg" alt="G30 UAV">
+<figcaption><i>G30 VOTL drone</i></figcaption>
+</figure>
+
