@@ -45,7 +45,7 @@
 3. 2015.07--2016.08 Advisor&Engineer *(Shanghai UZu Technology Co. Ltd)*
     * Advisor regarding aircraft design, UAV market analyses. Prototype design, manufacture, system integration and testing.
     
-### Experience during education
+### Educational
 
 #### 2009.09--2014.06 PhD *(Delft University of Technology)*
 1. Generic helicopter flight mechanics model development
