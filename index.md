@@ -8,46 +8,45 @@
 
 ## II. Education
 
-1. 2009--2014 PhD, *Delft University of Technology* (Delft, the Netherlands), Aerospace engineering
-2. 2006--2009 Master, *Beihang University* (Beijing, China), Aircraft design
-3. 2002--2006 Bachelor, *Beihang University* (Beijing, China), Aircraft design
+1. 2009--2014, PhD, *Delft University of Technology* (Delft, the Netherlands), Aerospace engineering
+2. 2006--2009, Master, *Beihang University* (Beijing, China), Aircraft design
+3. 2002--2006, Bachelor, *Beihang University* (Beijing, China), Aircraft design
 
 
 ## III. Experience
 
 ### Vocational
 
-#### 2016.10-2018.08 R&D manager *(Sky-mind Aviation Tech (Shanghai) Co. Ltd)*
+#### 2016.10-2018.08: R&D manager *(Sky-mind Aviation Tech (Shanghai) Co. Ltd)*
 
 1. Unmanned autogyro development (200~600 kg)
     * System engineer, autogyro preliminary design and performance evaluation.
     * Autogyro flight simulation model development, flight mechanics characteristics analyses and control algorithm evaluation.
     * Software in the loop and hardware in the loop simulation tests.
     * Flight test commander and chief test engineer.
-2. Quad-plane UAV development (30 kg)
+2. G30 Quad-plane UAV development (30 kg)
     * Chief engineer, system design and integration, Chief test engineer.
     * Aerodynamic analyses using commercial CFD software.
     
-#### 2014.07--2016.09 PostDoc research fellow *(School of Aeronautics and Astronautics, Shanghai Jiaotong University)*
+#### 2014.07--2016.09: PostDoc research fellow *(School of Aeronautics and Astronautics, Shanghai Jiaotong University)*
 1. Research on multi-rotor UAVs
     * Development of the generic multi-rotor flight mechanics model and the flight simulation program. Multi-rotor UAV flight mechanics characteristics analyses.
-	* Small quad-rotor UAV system integration, tuning and flight testing using open-source autopilot.
-    * Conceptual design of an amphibious WIG UAV.
+    * Small quad-rotor UAV system integration, tuning and flight testing using open-source autopilot.
 2. Prototype design of the electric driven landing gear system for UAVs and flight tests.
 3. Unsteady Vortex Lattice Method (UVLM) program development for fixed wing, flapping wing or rotor wing aircraft
 4. Coordinator of SJTU external cooperation projects.
 
 ### Part-time
-1. 2016.09--2017.08 Advisor *(Shanghai Wenxi Information Technology Co. Ltd)*
+1. 2016.09--2017.08: Advisor *(Shanghai Wenxi Information Technology Co. Ltd)*
     * Development of curriculum for preliminary schools to introduce general UAV knowledge and piloting skills.
-2. 2015.10--2016.07 Engineer *(Shanghai DoAero Technology Co. Ltd)*
+2. 2015.10--2016.07: Engineer *(Shanghai DoAero Technology Co. Ltd)*
     * Prototype Quad-plane platform development, flight test engineer and test pilot, flight test planning and flight data analyses.
-3. 2015.07--2016.08 Advisor&Engineer *(Shanghai UZu Technology Co. Ltd)*
+3. 2015.07--2016.08: Advisor&Engineer *(Shanghai UZu Technology Co. Ltd)*
     * Advisor regarding aircraft design, UAV market analyses. Prototype design, manufacture, system integration and testing.
     
 ### Educational
 
-#### 2009.09--2014.06 PhD *(Delft University of Technology)*
+#### 2009.09--2014.06: PhD *(Delft University of Technology)*
 1. Generic helicopter flight mechanics model development
     * Deriving the generic flight mechanics model based on blade element method, developing corresponding design, simulation and analysis codes.
 	* Model validation and providing simulation codes for the EU project ARISTOTEL.
@@ -60,14 +59,14 @@
     * Developing 2D Gurney flap aerodynamic model, integration with the generic helicopter flight mechanics model.
 	* Blade stall distribution and helicopter handling quality analyses with Gurney flap deployed.
 
-#### 2006.09--2009.06 Master *(Beihang University)*
+#### 2006.09--2009.06: Master *(Beihang University)*
 1. Beihang University FH series unmanned helicopters development
 	* Helicopter assembling, ground testing and system integration.
 	* Chief test pilot and coordinator between mechanic engineers and avionic engineers.
 	* Helicopter flight data monitoring system development based on AVR chip.
 2. Research on the free wake algorithm and its applications
 	* Study the free wake algorithm for rotor craft, and the FORTRAN codes development.
-	* Aerodynamic interaction analyses for co-axial helicopters. Providing initial de-coupling parameters for the autopilot system. %FH-1 helicopter design optimization.
+	* Aerodynamic interaction analyses for co-axial helicopters. Providing initial de-coupling parameters for the autopilot system. FH-1 helicopter design optimization.
 	* Combing the free wake algorithm and vortex lattice method for auto-gyro and compounded helicopters analyses.
 
 ### Other Experience
