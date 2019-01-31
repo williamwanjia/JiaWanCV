@@ -15,7 +15,7 @@
 
 ## III. Experience
 
-### Vocational
+### 1. Vocational
 
 #### 2016.10-2018.08: R&D manager *(Sky-mind Aviation Tech (Shanghai) Co. Ltd)*
 
@@ -36,7 +36,7 @@
 3. Unsteady Vortex Lattice Method (UVLM) program development for fixed wing, flapping wing or rotor wing aircraft
 4. Coordinator of SJTU external cooperation projects.
 
-### Part-time
+### 2. Part-time
 1. 2016.09--2017.08: Advisor *(Shanghai Wenxi Information Technology Co. Ltd)*
     * Development of curriculum for preliminary schools to introduce general UAV knowledge and piloting skills.
 2. 2015.10--2016.07: Engineer *(Shanghai DoAero Technology Co. Ltd)*
@@ -44,7 +44,7 @@
 3. 2015.07--2016.08: Advisor&Engineer *(Shanghai UZu Technology Co. Ltd)*
     * Advisor regarding aircraft design, UAV market analyses. Prototype design, manufacture, system integration and testing.
     
-### Educational
+### 3. Educational
 
 #### 2009.09--2014.06: PhD *(Delft University of Technology)*
 PhD Thesis: *Ornicopter Multidisciplinary Analyses and Conceptual Design*
@@ -70,7 +70,7 @@ PhD Thesis: *Ornicopter Multidisciplinary Analyses and Conceptual Design*
 	* Aerodynamic interaction analyses for co-axial helicopters. Providing initial de-coupling parameters for the autopilot system. FH-1 helicopter design optimization.
 	* Combing the free wake algorithm and vortex lattice method for auto-gyro and compounded helicopters analyses.
 
-### Service
+### 4. Service
 1. Teaching assistant for 'Helicopter Flight Mechanics' at TU Delft
 2. Translators for Chinese delegations to the Netherlands, such as NWPU, COMAC and AVIC
 3. The Urban Service Volunteer for Beijing 2008 Olympic and Paralympic Games
