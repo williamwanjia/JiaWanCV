@@ -8,7 +8,7 @@
 
 ## II. Education
 
-1. 2009--2014, PhD, *Delft University of Technology* (Delft, the Netherlands), Aerospace engineering
+1. 2009--2014, PhD, *Delft University of Technology* (Delft, the Netherlands), Aerospace engineering (Research group: *Control and Simulation*)
 2. 2006--2009, Master, *Beihang University* (Beijing, China), Aircraft design
 3. 2002--2006, Bachelor, *Beihang University* (Beijing, China), Aircraft design
 
@@ -47,6 +47,7 @@
 ### Educational
 
 #### 2009.09--2014.06: PhD *(Delft University of Technology)*
+PhD Thesis: *Ornicopter Multidisciplinary Analyses and Conceptual Design*
 1. Generic helicopter flight mechanics model development
     * Deriving the generic flight mechanics model based on blade element method, developing corresponding design, simulation and analysis codes.
 	* Model validation and providing simulation codes for the EU project ARISTOTEL.
@@ -69,7 +70,7 @@
 	* Aerodynamic interaction analyses for co-axial helicopters. Providing initial de-coupling parameters for the autopilot system. FH-1 helicopter design optimization.
 	* Combing the free wake algorithm and vortex lattice method for auto-gyro and compounded helicopters analyses.
 
-### Other Experience
+### Service
 1. Teaching assistant for 'Helicopter Flight Mechanics' at TU Delft
 2. Translators for Chinese delegations to the Netherlands, such as NWPU, COMAC and AVIC
 3. The Urban Service Volunteer for Beijing 2008 Olympic and Paralympic Games
@@ -98,7 +99,7 @@
 	
 ## VII. Representative Papers
 1. Wan, J., Liu H. and Wang F., "Imperative modeling elements for multi-rotor unmanned aerial vehicles'', *Journal of Beijing University of Aeronautics and Astronautics*, 2017, 43(6). (In Chinese)
-2. Wan, J. and Pavel, M., "Designing the Ornicopter, a tailless helicopter with active flapping blades - A case study", *Proceedings of the Institution of Mechanical Engineers. Part G, Journal of aerospace engineering*, 2016, 230(12).
+2. Wan, J. and Pavel, M., "Designing the Ornicopter, a tailless helicopter with active flapping blades - A case study", *Proceedings of the Institution of Mechanical Engineers. Part G, Journal of Aerospace Engineering*, 2016, 230(12).
 3. Wan, J. and Pavel, M., "The Ornicopter - A tailless helicopter with active flapping blades", *The Aeronautical Journal*, 2014, 118(7).
 4. Wan, J. and Pavel, M., "Directional handling quality assessment for Ornicopter", *38th European Rotorcraft Forum, Amsterdam*, the Netherlands, September, 2012.
 5. Wan, J. and Pavel, M., "Stability and controllability analysis for Ornicopter", *37th European Rotorcraft Forum*, Milan, Italy, September, 2011.
