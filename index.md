@@ -12,12 +12,14 @@
 2. 2006--2009 Master, *Beihang University* (Beijing, China), Aircraft design
 3. 2002--2006 Bachelor, *Beihang University* (Beijing, China), Aircraft design
 
-
 ## III. Experience
 
 ### Vocational
 
-#### 2016.10-2018.08 R&D manager *(Sky-mind Aviation Tech (Shanghai) Co. Ltd)*
+#### 2019.04-Present Research engineer *(Flanders Make)*
+
+
+#### 2016.10-2019.03 R&D manager *(Sky-mind Aviation Tech (Shanghai) Co. Ltd)*
 
 1. Unmanned autogyro development (200~600 kg)
     * System engineer, autogyro preliminary design and performance evaluation.
@@ -27,7 +29,7 @@
 2. Quad-plane UAV development (30 kg)
     * Chief engineer, system design and integration, Chief test engineer.
     * Aerodynamic analyses using commercial CFD software.
-    
+
 #### 2014.07--2016.09 PostDoc research fellow *(School of Aeronautics and Astronautics, Shanghai Jiaotong University)*
 1. Research on multi-rotor UAVs
     * Development of the generic multi-rotor flight mechanics model and the flight simulation program. Multi-rotor UAV flight mechanics characteristics analyses.
@@ -44,7 +46,7 @@
     * Prototype Quad-plane platform development, flight test engineer and test pilot, flight test planning and flight data analyses.
 3. 2015.07--2016.08 Advisor&Engineer *(Shanghai UZu Technology Co. Ltd)*
     * Advisor regarding aircraft design, UAV market analyses. Prototype design, manufacture, system integration and testing.
-    
+
 ### Experience during education
 
 #### 2009.09--2014.06 PhD *(Delft University of Technology)*
@@ -88,7 +90,6 @@
 
 1. **Chinese**: Mother tongue
 2. **English**: Advanced
-
 
 ## VI. Representative Honors
 
