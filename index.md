@@ -28,8 +28,8 @@
     * ROS implementation of localization, navigation, and control program for drones. 
       
 3. Multiple drone-related technology demonstrators
-    * Working on multiple drone applications, such autonomous inventory taking and building inspection.
-    * Demonstrators design, development, and integration.
+    * Working on multiple drone applications, such as autonomous inventory taking and building inspection.
+    * Demonstrator design, development, and integration.
     * Flight tests and public demonstration.
 
 #### 2016.10-2018.08: R&D manager *(Sky-mind Aviation Tech (Shanghai) Co. Ltd)*
