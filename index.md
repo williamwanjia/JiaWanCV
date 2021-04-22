@@ -36,7 +36,7 @@
 
 1. Unmanned autogyro development (200~600 kg)
     * System engineer, autogyro preliminary design and performance evaluation.
-    * Autogyro flight simulation model development, flight perform and handling quality analyses, and control algorithm evaluation.
+    * Autogyro flight simulation model development, flight performance and handling quality analyses, and control algorithm evaluation.
     * Software in the loop and hardware in the loop simulation tests.
     * Flight test commander and chief test engineer.
 2. G30 Quad-plane UAV development (30 kg)
