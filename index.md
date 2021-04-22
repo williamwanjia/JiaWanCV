@@ -18,12 +18,25 @@
 
 #### 2019.04-Present: Research engineer *(Flanders Make)*
 
+1. OASE generic EKF toolbox development
+    * Software package (Python/C++) design and programming.
+    * Software testing, validation, and customer supporting.
+
+2. Drone indoor localization and autonomous flight
+    * EKF design using multiple sensors, such as IMU, UWB, SLAM, and Lidar.
+    * Indoor flight tests and localization algorithm validation.
+    * ROS implementation of localization, navigation, and control program for drones. 
+      
+3. Multiple drone-related technology demonstrators
+    * Working on multiple drone applications, such autonomous inventory taking and building inspection.
+    * Demonstrators design, development, and integration.
+    * Flight tests and public demonstration.
 
 #### 2016.10-2018.08: R&D manager *(Sky-mind Aviation Tech (Shanghai) Co. Ltd)*
 
 1. Unmanned autogyro development (200~600 kg)
     * System engineer, autogyro preliminary design and performance evaluation.
-    * Autogyro flight simulation model development, flight mechanics characteristics analyses and control algorithm evaluation.
+    * Autogyro flight simulation model development, flight perform and handling quality analyses, and control algorithm evaluation.
     * Software in the loop and hardware in the loop simulation tests.
     * Flight test commander and chief test engineer.
 2. G30 Quad-plane UAV development (30 kg)
@@ -54,15 +67,15 @@
 PhD Thesis: *Ornicopter Multidisciplinary Analyses and Conceptual Design*
 1. Generic helicopter flight mechanics model development
     * Deriving the generic flight mechanics model based on blade element method, developing corresponding design, simulation and analysis codes.
-	* Model validation and providing simulation codes for the EU project ARISTOTEL.
+    * Model validation and providing simulation codes for the EU project ARISTOTEL.
 2. Ornicopter tailless helicopter concept analyses and design
     * Developing simulation model and analyses programs. Concept evaluations and comparisons with conventional helicopters.
-	* Sensitivity analysis for design parameters, determining the feasible design space and design optimization.
-	* Integration of simulation codes with the SIMONA 6 DoF flight simulator, virtual flight tests with test pilots.
-	* Generating design database, determining the feasible design space and Ornicopter design optimization.
+    * Ornicopter handling quality analyses.
+    * Integration of simulation codes with the SIMONA 6 DoF flight simulator, virtual flight tests with test pilots.
+    * Sensitivity analysis for design parameters, determining the feasible design space and design optimization.
 3. Research on the impacts of Gurney flap on helicopter performance
     * Developing 2D Gurney flap aerodynamic model, integration with the generic helicopter flight mechanics model.
-	* Blade stall distribution and helicopter handling quality analyses with Gurney flap deployed.
+    * Blade stall distribution and helicopter handling quality analyses with Gurney flap deployed.
 
 #### 2006.09--2009.06: Master *(Beihang University)*
 1. Beihang University FH series unmanned helicopters development
@@ -92,6 +105,7 @@ PhD Thesis: *Ornicopter Multidisciplinary Analyses and Conceptual Design*
 
 1. **Chinese**: Mother tongue
 2. **English**: Advanced
+3. **Dutch**: Beginner
 
 ## VI. Representative Honors
 
@@ -124,5 +138,10 @@ Apology that I don't have the privilege to post more details on internet. You ca
 <figure>
 <img src="FH1.jpg" alt="FH-1 UAV">
 <figcaption><i>FH-1 unmanned coaxial helicopter (MTW 70~90kg)</i></figcaption>
+</figure>
+
+<figure>
+<img src="Bo105Model.jpg" alt="Bo-105 Model Validation">
+<figcaption><i>Validation of my Bo-105 flight dynamic model</i></figcaption>
 </figure>
 
